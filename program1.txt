@@ -11,5 +11,6 @@ int main(){
         mul=mul*n1;
     }
     printf("sum is %d product is %d",add,mul);
+printf("end of the prgm");
     return 0;
 }
